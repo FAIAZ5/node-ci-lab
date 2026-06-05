@@ -10,3 +10,4 @@ function add(a, b) {
 
 console.log(greet("Faiaz"));
 console.log("2 + 3 =", add(2, 3));
+const willFailCI = "this variable is never used";
