@@ -11,3 +11,4 @@ test('add works with negative numbers', () => {
 test('greet returns a hello message with the name', () => {
   expect(greet('Faiaz')).toBe('Hello, Faiaz!');
 });
+
